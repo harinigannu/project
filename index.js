@@ -33,7 +33,7 @@ $(document).ready(function () {
     {
       teamName: "KKR",
       teamIcon:
-        "https://sportzcraazy.com/wp-content/uploads/2020/01/kkr-logo.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38okPQxD_O48Dj_AjqW0URJLDjLIaWhIS08ChQsZC9F24odp_tZ-fxUMs3NjcPJXCisQ&usqp=CAU",
       playerCount: 17,
       topBatsman: "Shubman Gill",
       topBowler: "Varun Chakravarthy",
